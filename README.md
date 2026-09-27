@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Cristian
 
-🎮 **Junior Game Developer & Systems Engineering student** from Colombia 🇨🇴
-🕹️ Building games with **Godot** and exploring **Unity & 3D development**
-💡 Interested in **gameplay programming, game systems, mechanics and interactive experiences**
-🧪 I enjoy experimenting with ideas and turning them into playable prototypes
-📚 Currently finishing my **Systems and Computer Engineering** degree at UTP
-🚀 Always learning, building and looking for the next game to make
+- 🎮 **Junior Game Developer & Systems Engineering student** from Colombia 🇨🇴
+- 🕹️ Building games with **Godot** and exploring **Unity & 3D development**
+- 💡 Interested in **gameplay programming, game systems, mechanics and interactive experiences**
+- 🧪 I enjoy experimenting with ideas and turning them into playable prototypes
+- 📚 Currently finishing my **Systems and Computer Engineering** degree at UTP
+- 🚀 Always learning, building and looking for the next game to make
 
 ---
 
@@ -137,11 +137,11 @@ Still developing!
 
 ## 🌱 Currently
 
-🎮 Building and experimenting with game projects
-🧠 Learning more about game architecture and gameplay systems
-🕹️ Exploring the transition from 2D to 3D development
-💻 Finishing my Systems Engineering degree
-🚀 Looking for opportunities to grow as a **Game Developer**
+- 🎮 Building and experimenting with game projects
+- 🧠 Learning more about game architecture and gameplay systems
+- 🕹️ Exploring the transition from 2D to 3D development
+- 💻 Finishing my Systems Engineering degree
+- 🚀 Looking for opportunities to grow as a **Game Developer**
 
 ---
 
@@ -151,14 +151,5 @@ Still developing!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/cristian-lopez-21b1b634/)
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=cristianprg\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=cristianprg\&theme=tokyonight\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianprg\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
-
 
 :)
